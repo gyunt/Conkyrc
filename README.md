@@ -13,5 +13,5 @@ Create link symbol:
 -----
 
 ``
-ln -s conkyrc ~/.conkyrc
+ln -s conkyrc/conkyrc ~/.conkyrc
 ``
